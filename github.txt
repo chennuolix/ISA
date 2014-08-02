@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 this is Github.
 githube is good.
 githube is free.
 github  is useful.
 github  is used for linux.
+=======
+github is good
+>>>>>>> 7bdcfabbc2a9c4c028e657ef54b4be895d658399
